@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Lotimuah/Lotimuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Lotimuah:~$ Hi there, I'm an AI research engineer working in South Korea.
 
-Here are some ideas to get you started:
+## 📖 About me
+- 🖥️ ML Research Engineer at SyenrgyAI (Feb 2023 - Present)
+- 🎓 Inha University, Incheon, South Korea (Mar 2020 - Feb 2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interest Fields
+- Reinforcement Learning
+- Autonomous Driving
+- Computer Vision
+- Robotics
+
+## 🐤 Projects
+- [Wind Power Forcasting](https://github.com/Lotimuah/wind-power-forecasting)
+- [Road Traffic Prediction](https://github.com/Lotimuah/road-traffic-prediction)
+- [USM4AD : Uncertainty Sequence Modeling for Safe and Effective Autonomous Driving](https://github.com/Lotimuah/uncertainty-sequence-modeling)
+
+
+
