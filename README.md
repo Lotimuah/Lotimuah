@@ -2,8 +2,8 @@
     Lotimuah:~$ Hi there, I'm an AI research engineer working in South Korea.
 
 ## 📖 About me
-- 🖥️ ML Research Engineer at SyenrgyAI (Feb 2023 - Present)
-- 🎓 Inha University, Incheon, South Korea (Mar 2020 - Feb 2023)
+- ML Research Engineer at SyenrgyAI (Feb 2023 - Present)
+- Inha University, Incheon, South Korea (Mar 2020 - Feb 2023)
 
 ## 🚀 Interest Fields
 - Reinforcement Learning
