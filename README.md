@@ -7,9 +7,7 @@
 
 ## 🚀 Interest Fields
 - Reinforcement Learning
-- Autonomous Driving
 - Computer Vision
-- Robotics
 
 ## 🐤 Projects
 - [Wind Power Forcasting](https://github.com/Lotimuah/wind-power-forecasting)
